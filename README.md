@@ -1,6 +1,29 @@
 # UPSC
 Material for UPSC
 
+# Daily Timetable
+
+## Morning
+
+- 5:00 AM - Wake Up
+- 5:30 AM - 6:30 AM: Personal Time (Exercise, Bath, Read a Book)
+- 6:30 AM - 8:00 AM: Newspaper Reading and Current Affairs Update
+- 8:00 AM - 8:30 AM: Breakfast
+- 8:30 AM - 12:30 PM: UPSC Preparation (Select a topic and study)
+
+## Afternoon
+
+- 12:30 PM - 1:30 PM: Lunch Break
+- 1:30 PM - 5:30 PM: UPSC Preparation (Switch to another topic and continue studying)
+- 5:30 PM - 6:30 PM: Tea Break (Relax, move around, watch some TV)
+- 6:30 PM - 9:30 PM: UPSC Preparation (Continue with another topic or wrap up the day's topics)
+
+## Evening
+
+- 9:30 PM - 10:30 PM: Dinner
+- 10:30 PM - Bedtime: DSA Preparation (Review concepts, solve problems, take practice tests)
+
+
 Journal :
 
 Day 1(23rd Jan 2024) :
